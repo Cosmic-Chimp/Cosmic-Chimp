@@ -13,6 +13,7 @@
   <br/>
   <code><img height="30" width="40" border-radius="50%" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+  <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
@@ -41,22 +42,6 @@
 
 <br/>
 
-</details>
 
-<br/>
-<br/>
-<br/>
-
-
-
-### Github Activity 👨‍💻:
-
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
 
 
