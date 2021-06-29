@@ -3,6 +3,7 @@
 - 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
 - 📫 Contact me by my e-mail: ... (currently havent gotten my own professional e-mail,but i'll have it real soon)
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
+- 🥅 My goal for this year is to become better with JavaScript,SASS and Node.js
 - 🕹️ Fun fact about me: I love gaming and plan on making my own platform game somewhere in the future 
 
 <br/>
@@ -41,3 +42,21 @@
 <br/>
 
 </details>
+
+<br/>
+<br/>
+<br/>
+
+
+
+### Github Activity 👨‍💻:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+
