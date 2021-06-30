@@ -1,10 +1,12 @@
+<img src="./smilebannerSVG.svg"></img>
+
 - 👋 Hi, I’m @Cosmic-Chimp aka Rueben
-- 📘 I’m currently learning about code through CodeCademy's Full-Stack Engineer Path 
+- 📘 I’m currently learning about code through CodeCademy's Full-Stack Engineer Path
 - 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
 - 📫 Contact me by my e-mail: ... (currently havent gotten my own professional e-mail,but i'll have it real soon)
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
 - 🥅 My goal for this year is to become better with JavaScript,SASS and Node.js
-- 🕹️ Fun fact about me: I love gaming and plan on making my own platform game somewhere in the future 
+- 🕹️ Fun fact about me: I love gaming and plan on making my own platform game somewhere in the future
 
 <br/>
 
@@ -23,7 +25,7 @@
 </details>
 
   <details>
-<summary> Connect with me🤝: </summary>  
+<summary> Connect with me🤝: </summary>
 
 <br/>
 
@@ -35,13 +37,8 @@
   <img align="left" alt="My Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 
-
 <a href="https://www.linkedin.com/in/rueben-schoeman-1276861a0/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 
 <br/>
-
-
-
-
