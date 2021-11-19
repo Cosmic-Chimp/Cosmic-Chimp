@@ -33,9 +33,9 @@
   <img align="left" alt="My Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />
 </a>
 
-<a href="https://www.instagram.com/at_patat7/">
+<!-- <a href="https://www.instagram.com/at_patat7/">
   <img align="left" alt="My Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/rueben-schoeman-1276861a0/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
