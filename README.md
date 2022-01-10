@@ -22,8 +22,8 @@
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-  <code><img height="30" width="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZAft79Hg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/n2ur77wxawmw5bj6ojrf.png"></code>
-  <code><img height="30" width="40" src="https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"></code>
+  <code><img height="30" width="40" src="https://styled-components.com/logo.png"></code>
+  <code><img height="30" width="40" src="https://en.wikipedia.org/wiki/React_(JavaScript_library)#/media/File:React-icon.svg"></code>
 </details>
 
   <details>
