@@ -22,8 +22,7 @@
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-  <code><img height="30" width="40" src="https://styled-components.com/logo.png"></code>
-  <code><img height="30" width="40" src="https://en.wikipedia.org/wiki/React_(JavaScript_library)#/media/File:React-icon.svg"></code>
+
 </details>
 
   <details>
