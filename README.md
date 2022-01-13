@@ -1,11 +1,11 @@
 <img src="./smilebannerSVG.svg"></img>
 
-- 👋 Hi, I’m @Cosmic-Chimp aka Rueben
+- 👋 Hi, I’m Rueben AKA @Cosmic-Chimp
 - 📘 I’m currently learning about code through CodeCademy's Full-Stack Engineer Path
 - 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
-- 📫 Contact me by my e-mail: ... (currently havent gotten my own professional e-mail,but i'll have it real soon)
+- 📫 Contact me by my e-mail: rubzdebruyn@gmail.com
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
-- 🥅 My goal for this year is to become better with JavaScript,SASS and Node.js
+- 🥅 My goal for this year is to become better with JavaScript,React and other front-end libraries/frameworks
 - 🕹️ Fun fact about me: I love gaming and plan on making my own platform game somewhere in the future
 
 <br/>
