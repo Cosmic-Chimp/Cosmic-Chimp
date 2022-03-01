@@ -16,7 +16,7 @@
   <code><img height="30" width="40" border-radius="50%" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
-  <code><img height="30" width="40" src="https://iconape.com/wp-content/files/zk/93042/png/react.png"></code>
+  <code><img height="30" width="40" src="https://cubettech.com/wp-content/uploads/2018/09/1280px-React-icon.svg_.png"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
