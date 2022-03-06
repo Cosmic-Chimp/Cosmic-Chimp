@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Rueben aka Cosmic-Chimp
 - 📘  I’ve been studying online for the past 2 years and I am very keen on joining the web-dev job market
 - 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
-- 📫 Contact me by my e-mail: rubzdebruyn@gmail.com
+- 📫 Contact me by my e-mail: rueben@jssourcerer.co.za
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
 - 🥅 My goal for this year is to become better with JavaScript, Sass, ReactJs and and to start learning about backend-development
 - 🕹️  Fun fact about me: I love gaming and plan on making my own platform game somewhere in the future with UNITY
