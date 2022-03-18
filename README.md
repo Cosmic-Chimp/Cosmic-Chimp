@@ -18,7 +18,7 @@
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code>
   <code><img height="30" width="40" src="https://cubettech.com/wp-content/uploads/2018/09/1280px-React-icon.svg_.png"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
-  <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
+  <code><img height="30" width="40" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
