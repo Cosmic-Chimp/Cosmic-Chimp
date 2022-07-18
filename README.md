@@ -5,8 +5,8 @@
 - 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
 - 📫 Contact me by my e-mail: rubzdebruyn@gmail.com
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
-- 🥅 My goal for this year is to become better with JavaScript, Sass, ReactJs and and to start learning about backend-development
-- 🕹️  Fun fact about me: I love getting lost in world that game developers create and I plan on making my own platform game somewhere in the future with UNITY
+- 🥅 My goal for this year is to become better with JavaScript, TypeScript, Sass, ReactJs, Magento and to continue learning about backend-development
+- 🕹️  Fun fact about me: I love getting lost in worlds that game developers create and I plan on making my own platform game somewhere in the future with UNITY
 
 <br/>
 
