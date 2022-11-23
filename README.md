@@ -1,12 +1,12 @@
 <img src="./smilebannerSVG.svg"></img>
 
 - 👋 Hi, I’m Rueben aka Cosmic-Chimp
-- 📘  I’ve been studying online for the past 2 years and I am very keen on working on solutions for YOU
-- 🧠 I’m always happy to learn new things and I'm super excited about how the tech world is progressing
-- 📫 Contact me by my e-mail: rubzdebruyn@gmail.com
+- 🫵 I have experience in the e-commerce field and I'm keen on working on solutions for YOU
+- 🧠 I’m always happy to learn new things, and love experimenting with new tools/technologies and different ways of thinking
 - 👀 I’m interested in improving my life aswell as other people's lives through the use of technology
-- 🥅 My goal for this year is to become better with JavaScript, TypeScript, Sass, ReactJs, Magento and to continue learning about backend-development
-- 🕹️  Fun fact about me: I love getting lost in worlds that game developers create and I plan on making my own platform game somewhere in the future with UNITY
+- 🥅 My goal for this year is to become better with TypeScript, Angular, C# and Unity
+- 🕹️  Fun fact about me: I love getting lost in worlds that game developers create and I plan on making my own platform game somewhere in the future with Unity
+- 📫 Contact me by my e-mail: rubzdebruyn@gmail.com
 
 <br/>
 
