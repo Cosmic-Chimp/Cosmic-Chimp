@@ -23,6 +23,12 @@
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
   <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+  <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+  <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+  <code><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
+  <code><img height="30" width="40" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png"></code>
+  
+
 
 </details>
 
