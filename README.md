@@ -33,11 +33,16 @@
 
 
 </details>
-
-  <details>
+ 
+<!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=Cosmic-Chimp&theme=react&show_icons=true&count_private=true)    -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-Chimp) -->
+ <details>
 <summary> Connect with me🤝: </summary>
 
 <br/>
+  
+  
+  
 
 <a href="https://www.linkedin.com/in/rueben-schoeman-1276861a0/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
