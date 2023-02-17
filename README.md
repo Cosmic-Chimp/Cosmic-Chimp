@@ -1,6 +1,6 @@
 <img src="./smilebannerSVG.svg"></img>
 
-Hi there, I'm Rueben aka Cosmic-Chimp! I have extensive experience in the e-commerce industry and am always eager to work on projects that can benefit others.
+Hi there, I'm Rueben aka Cosmic-Chimp! I have experience in the e-commerce industry and am always eager to work on projects that can benefit others.
 
 My passion for learning and experimenting with new tools and technologies drives me to constantly improve my skillset. I am interested in using technology to improve people's lives, both my own and those around me.
 
