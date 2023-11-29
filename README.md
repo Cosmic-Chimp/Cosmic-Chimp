@@ -1,10 +1,10 @@
 <img src="./smilebannerSVG.svg"></img>
 
-Hi there, I'm Rueben aka Cosmic-Chimp! I have experience in the e-commerce industry and am always eager to work on projects that can benefit others.
+Hi there, I'm Rueben aka Cosmic-Chimp! I have experience in the e-commerce industry and I'm always eager to work on new and exciting projects.
 
 My passion for learning and experimenting with new tools and technologies drives me to constantly improve my skillset. I am interested in using technology to improve people's lives, both my own and those around me.
 
-In the coming year, my goal is to deepen my knowledge of TypeScript, Angular, C# and cloud-based services like AWS.
+In the coming year, my goal is to deepen my knowledge of TypeScript, Redux(and Redux Toolkit), OOP-programming and React Native.
 
 I can be reached through my email at rubzdebruyn@gmail.com.
 
