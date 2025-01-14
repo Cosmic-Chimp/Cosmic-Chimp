@@ -2,25 +2,24 @@
 
 # Hi there, I'm Rueben aka Cosmic-Chimp! 👋
 
-I’m a passionate developer with experience in the e-commerce industry. My enthusiasm for learning and experimenting with new tools and technologies drives me to constantly improve my skills. I aim to use technology to make life better for myself and others. 🚀
+I am a **Web Developer** with experience in **Magento 2**, **NextJS**, and related tools and technologies. Passionate about delivering high-quality solutions, I thrive in collaborative teams where I can contribute meaningfully while learning and growing. 🚀
+
+---
 
 ## 🌟 What I'm Currently Focused On:
-- **Deepening my knowledge of:**
-  - TypeScript and Redux (including Redux Toolkit)
-  - Object-Oriented Programming (OOP)
-  - React Native
-- **Building impactful and innovative projects**
+- Enhancing my expertise in **Magento 2**, **NextJS**, **C#** and **.NET**
+- Deepening my understanding of **TypeScript**, **Redux Toolkit**, and **Object-Oriented Programming (OOP)**
 
 ---
 
 ## 📬 How to Reach Me:
 📧 **Email**: [rubzdebruyn@gmail.com](mailto:rubzdebruyn@gmail.com)  
-🔗 **LinkedIn**: [Rueben Schoeman](https://www.linkedin.com/in/rueben-schoeman-1276861a0/)
+🔗 **LinkedIn**: [Rueben Schoeman](https://www.linkedin.com/in/rueben-schoeman-1276861a0/)  
 
 ---
 
-## 🛠️ Tools and Technologies:
-Here are some of the tools and technologies I work with:
+## 🛠️ Technical Skills:
+Here are some of the tools and technologies I specialize in:
 
 <p>
   <img height="30" src="https://cubettech.com/wp-content/uploads/2018/09/1280px-React-icon.svg_.png" alt="React">
@@ -28,14 +27,13 @@ Here are some of the tools and technologies I work with:
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Magento_2.svg" alt="Magento 2">
+  <img height="30" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png" alt="C#">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="GitHub">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular">
-  <img height="30" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png" alt="C#">
 </p>
+
 
 ---
 
