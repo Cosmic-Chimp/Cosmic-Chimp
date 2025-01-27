@@ -42,7 +42,7 @@ Here are some of the tools and technologies I specialize in:
 
 ---
 
-## 🤝 Connect with Me:
+## 🤝 Click on the below social icons to connect with me:
 <p>
   <a href="https://www.linkedin.com/in/rueben-schoeman-1276861a0/">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" />
