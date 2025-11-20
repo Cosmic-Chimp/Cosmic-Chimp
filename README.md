@@ -66,7 +66,4 @@ I'm a **full stack web-developer** that solves functional problems and creates e
   <a href="https://www.linkedin.com/in/rueben-schoeman-1276861a0/">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" />
   </a>
-  <a href="mailto:rubzdebruyn@gmail.com">
-    <img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" />
-  </a>
 </p>
